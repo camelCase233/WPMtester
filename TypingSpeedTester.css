@@ -1,0 +1,15 @@
+#timer{
+    display: inline-block;
+    margin-left: 50px;
+}
+input{
+    width: 100px;
+    margin-top: 10px;
+    height:30px;
+}
+p{
+    width: 500px;
+}
+.submission{
+    margin-left: 10px;
+}
